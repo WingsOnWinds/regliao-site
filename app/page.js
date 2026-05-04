@@ -596,7 +596,7 @@ export default function Page() {
             <div>
               <div className="eyebrow" style={{ marginBottom: 16, fontSize: 11 }}>Contact</div>
               <a href="mailto:hello@regliao.ca" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none", marginBottom: 8 }}>hello@regliao.ca</a>
-              <a href="https://www.linkedin.com/in/shawnliao-complyai" target="_blank" rel="noopener noreferrer" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none" }}>LinkedIn</a>
+              <a href="https://www.linkedin.com/in/regliao/" target="_blank" rel="noopener noreferrer" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none" }}>LinkedIn</a>
             </div>
             <div>
               <div className="eyebrow" style={{ marginBottom: 16, fontSize: 11 }}>Legal</div>
