@@ -246,9 +246,11 @@ export default function Page() {
               Book a 20-minute call
               <span className="arrow">→</span>
             </a>
+            {/* Re-enable when STR checklist PDF is ready
             <a href="#checklist" className="btn-secondary" style={{ textDecoration: "none" }}>
               Get the STR quality checklist
             </a>
+            */}
           </div>
         </section>
 
@@ -548,9 +550,11 @@ export default function Page() {
               Book a call
               <span className="arrow">→</span>
             </a>
+            {/* Re-enable when STR checklist PDF is ready
             <a href="#" id="checklist" className="btn-secondary" style={{ textDecoration: "none" }}>
               Download the STR checklist
             </a>
+            */}
           </div>
         </section>
 
@@ -592,7 +596,7 @@ export default function Page() {
             <div>
               <div className="eyebrow" style={{ marginBottom: 16, fontSize: 11 }}>Contact</div>
               <a href="mailto:hello@regliao.ca" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none", marginBottom: 8 }}>hello@regliao.ca</a>
-              <a href="#" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none" }}>LinkedIn</a>
+              <a href="https://www.linkedin.com/in/shawnliao-complyai" target="_blank" rel="noopener noreferrer" className="link-hover" style={{ display: "block", fontSize: 14, color: "#1a1814", textDecoration: "none" }}>LinkedIn</a>
             </div>
             <div>
               <div className="eyebrow" style={{ marginBottom: 16, fontSize: 11 }}>Legal</div>
